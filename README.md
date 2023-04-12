@@ -1,2 +1,3 @@
 # ciTest
 foo
+bar
